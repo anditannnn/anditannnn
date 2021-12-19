@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anditannnn
+- 👋 Hi, I’m Andi
 - 👀 I’m interested in Android/iOS development and hybrid mobile development language(React-Native)
 - 🌱 I’m currently learning React-native and Android Studio
 
